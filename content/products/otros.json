@@ -1,0 +1,13 @@
+[
+  { "id": "queso-caja-grande",  "photo": null, "es": { "n": "Queso (caja grande)",     "d": "Queso centroamericano, presentación grande." },      "en": { "n": "Cheese (large box)",         "d": "Central-American cheese, large size." } },
+  { "id": "queso-caja-pequena", "photo": null, "es": { "n": "Queso (caja pequeña)",    "d": "Queso centroamericano, presentación pequeña." },     "en": { "n": "Cheese (small box)",         "d": "Central-American cheese, small size." } },
+  { "id": "queso-fresco",       "photo": null, "es": { "n": "Queso Fresco (libra)",    "d": "Queso fresco centroamericano, por libra." },         "en": { "n": "Queso Fresco (lb)",          "d": "Central-American fresh cheese, by the pound." } },
+  { "id": "crema",              "photo": null, "es": { "n": "Crema Centroamericana",   "d": "Crema espesa y ligeramente ácida." },                "en": { "n": "Central-American Crema",     "d": "Thick, lightly tangy table cream." } },
+  { "id": "eclair",             "photo": null, "es": { "n": "Éclair",                  "d": "Hojaldre relleno de crema y cubierto de chocolate." },"en": { "n": "Éclair",                    "d": "Choux pastry filled with cream, topped with chocolate." } },
+  { "id": "mil-hojas",          "photo": null, "es": { "n": "Mil Hojas",               "d": "Capas de hojaldre con crema pastelera." },           "en": { "n": "Mil Hojas",                  "d": "Layers of puff pastry with pastry cream." } },
+  { "id": "vaso-tres-leches",   "photo": null, "es": { "n": "Vaso de Tres Leches",     "d": "Postre individual de tres leches en vaso." },        "en": { "n": "Tres Leches Cup",            "d": "Individual tres-leches dessert in a cup." } },
+  { "id": "paletas-helado",     "photo": null, "es": { "n": "Paletas de Helado",       "d": "Paletas heladas en variedad de sabores." },          "en": { "n": "Ice Cream Pops",             "d": "Frozen popsicles in assorted flavors." } },
+  { "id": "mangonadas",         "photo": null, "es": { "n": "Mangonadas",              "d": "Mango con chamoy, chile y limón — dulce y picosito." },"en": { "n": "Mangonadas",               "d": "Mango with chamoy, chili and lime — sweet and spicy." } },
+  { "id": "pan-frances",        "photo": null, "es": { "n": "Pan Francés (Bolillo)",   "d": "Bolillo crujiente, ideal para tortas." },            "en": { "n": "French Roll (Bolillo)",      "d": "Crusty roll, perfect for sandwiches." } },
+  { "id": "pan-con-todo",       "photo": null, "es": { "n": "Pan con Todo",            "d": "Pan relleno de frijol, queso, crema y huevo." },     "en": { "n": "Pan con Todo",              "d": "Bread filled with beans, cheese, crema and egg." } }
+]

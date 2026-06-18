@@ -1,0 +1,7 @@
+[
+  { "id": "atol-elote", "photo": null, "es": { "n": "Atol de Elote",      "d": "Atol cremoso de maíz tierno, calientito." },  "en": { "n": "Sweet Corn Atol",   "d": "Warm, creamy sweet-corn atol." } },
+  { "id": "chocolate",  "photo": null, "es": { "n": "Chocolate Caliente", "d": "Chocolate de tablilla batido a mano." },       "en": { "n": "Hot Chocolate",     "d": "Hand-whisked tablet chocolate." } },
+  { "id": "te-clasico", "photo": null, "es": { "n": "Té Clásico",         "d": "Té negro caliente." },                         "en": { "n": "Classic Tea",       "d": "Hot black tea." } },
+  { "id": "te-sabores", "photo": null, "es": { "n": "Té de Sabores",      "d": "Infusiones de frutas y hierbas." },            "en": { "n": "Flavored Tea",      "d": "Fruit and herbal infusions." } },
+  { "id": "americano",  "photo": null, "es": { "n": "Café Americano",     "d": "Café negro recién hecho." },                   "en": { "n": "Americano",         "d": "Freshly brewed black coffee." } }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "croissant-regular",     "photo": null,                                      "es": { "n": "Croissant Regular",            "d": "Hojaldrado, dorado y mantecoso." },                         "en": { "n": "Regular Croissant",            "d": "Flaky, golden and buttery." } },
+  { "id": "croissant-chocolate",   "photo": null,                                      "es": { "n": "Croissant de Chocolate",       "d": "Croissant relleno de chocolate fundido." },                 "en": { "n": "Chocolate Croissant",          "d": "Croissant filled with melted chocolate." } },
+  { "id": "croissant-crema-queso", "photo": null,                                      "es": { "n": "Croissant de Crema de Queso", "d": "Relleno cremoso de queso." },                               "en": { "n": "Cream Cheese Croissant",       "d": "Creamy cheese filling." } },
+  { "id": "croissant-espinaca",    "photo": "assets/photos/croissant-espinaca.jpeg",   "es": { "n": "Croissant de Espinaca",       "d": "Hojaldre relleno de espinaca y queso." },                   "en": { "n": "Spinach Croissant",            "d": "Flaky croissant with spinach and cheese." } },
+  { "id": "empanada-pollo",        "photo": null,                                      "es": { "n": "Empanada de Pollo",           "d": "Masa dorada rellena de pollo guisado." },                   "en": { "n": "Chicken Empanada",             "d": "Golden crust filled with stewed chicken." } },
+  { "id": "empanada-carne",        "photo": null,                                      "es": { "n": "Empanada de Carne",           "d": "Rellena de carne sazonada de la casa." },                   "en": { "n": "Beef Empanada",                "d": "Filled with our house-seasoned beef." } }
+]

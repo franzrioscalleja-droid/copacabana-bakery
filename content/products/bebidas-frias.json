@@ -1,0 +1,16 @@
+[
+  { "id": "horchata",         "photo": null, "es": { "n": "Horchata",            "d": "Bebida de arroz con canela, fría y refrescante." },      "en": { "n": "Horchata",            "d": "Cinnamon rice drink, cold and refreshing." } },
+  { "id": "maracuya",         "photo": null, "es": { "n": "Maracuyá",            "d": "Fresco de maracuyá, dulce y ácido." },                   "en": { "n": "Passion Fruit",       "d": "Passion-fruit cooler, sweet and tangy." } },
+  { "id": "mango",            "photo": null, "es": { "n": "Mango",               "d": "Fresco de mango natural." },                             "en": { "n": "Mango",               "d": "Fresh mango cooler." } },
+  { "id": "coca-lata",        "photo": null, "es": { "n": "Coca-Cola (lata)",    "d": "Lata bien fría." },                                      "en": { "n": "Coca-Cola (can)",     "d": "Ice-cold can." } },
+  { "id": "coca-botella",     "photo": null, "es": { "n": "Coca-Cola (botella)", "d": "Botella de vidrio mexicana." },                          "en": { "n": "Coca-Cola (bottle)",  "d": "Mexican glass bottle." } },
+  { "id": "jarrito",          "photo": null, "es": { "n": "Jarrito",             "d": "Refresco mexicano en varios sabores." },                  "en": { "n": "Jarritos",            "d": "Mexican soda in assorted flavors." } },
+  { "id": "nesquik",          "photo": null, "es": { "n": "Nesquik",             "d": "Leche con chocolate Nesquik." },                         "en": { "n": "Nesquik",             "d": "Nesquik chocolate milk." } },
+  { "id": "starbucks-vidrio", "photo": null, "es": { "n": "Starbucks (vidrio)",  "d": "Frappuccino embotellado, listo para llevar." },          "en": { "n": "Starbucks (glass)",   "d": "Bottled Frappuccino, ready to go." } },
+  { "id": "welch",            "photo": null, "es": { "n": "Welch's",             "d": "Jugo de uva Welch's." },                                 "en": { "n": "Welch's",             "d": "Welch's grape juice." } },
+  { "id": "jugo-lata",        "photo": null, "es": { "n": "Jugo en Lata",        "d": "Jugo de frutas en lata." },                              "en": { "n": "Canned Juice",        "d": "Canned fruit juice." } },
+  { "id": "agua-embotellada", "photo": null, "es": { "n": "Agua Embotellada",    "d": "Agua purificada, fría." },                               "en": { "n": "Bottled Water",       "d": "Cold purified water." } },
+  { "id": "monster",          "photo": null, "es": { "n": "Monster",             "d": "Bebida energética Monster." },                           "en": { "n": "Monster",             "d": "Monster energy drink." } },
+  { "id": "redbull",          "photo": null, "es": { "n": "Red Bull",            "d": "Bebida energética Red Bull." },                          "en": { "n": "Red Bull",            "d": "Red Bull energy drink." } },
+  { "id": "gatorade",         "photo": null, "es": { "n": "Gatorade",            "d": "Bebida deportiva en varios sabores." },                  "en": { "n": "Gatorade",            "d": "Sports drink in assorted flavors." } }
+]
