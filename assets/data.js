@@ -341,5 +341,10 @@ window.REVIEWS = [
     name: "Lorraine H.", initial: "L", stars: 5,
     es: "¡Tantos pasteles ricos!! ¡Tan bueno! ¡Los precios son geniales!",
     en: "So many delicious cakes!! So good! The prices are great!"
+  },
+  {
+    name: "Daniel Martínez", initial: "D", stars: 5,
+    es: "Llegue de casualidad hace un par de meses y vaya sorpresa... delicioso simplemente sabroso, cada vez que voy a trabajar cerca no me resisto a salir con una bolsa llena de distintos panes y pasteles... siempre me atienden con calma y paciencia ya que tardo mucho en elegir.",
+    en: "I came by chance a couple of months ago and what a surprise... delicious, simply tasty. Every time I go to work nearby I can't resist leaving with a bag full of different breads and pastries... they always serve me with calm and patience since I take a long time to choose."
   }
 ];
