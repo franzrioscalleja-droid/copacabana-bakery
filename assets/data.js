@@ -331,5 +331,15 @@ window.NOVEDADES = [
     en: { n: "Rosones",           d: "Cake covered in cream rosettes — elegant and delicate." } },
 ];
 
-/* Real reviews will be added manually or imported from Google Reviews API later */
-window.REVIEWS = [];
+window.REVIEWS = [
+  {
+    name: "Angi M.", initial: "A", stars: 5,
+    es: "¡Esta panadería es increíble! Todo siempre está fresco y delicioso. Recomiendo mucho que sus 3 pasteles y pasteles de 3 leches también son fantásticos. El personal es súper amable. ¡Definitivamente volveré y pediré más tarta de cumpleaños y magdalenas!",
+    en: "This bakery is amazing! Everything is always fresh and delicious. I highly recommend their 3 leches cakes — they're fantastic. The staff is super friendly. I'll definitely be back to order more birthday cakes and magdalenas!"
+  },
+  {
+    name: "Lorraine H.", initial: "L", stars: 5,
+    es: "¡Tantos pasteles ricos!! ¡Tan bueno! ¡Los precios son geniales!",
+    en: "So many delicious cakes!! So good! The prices are great!"
+  }
+];

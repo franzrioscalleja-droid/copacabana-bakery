@@ -65,8 +65,8 @@ function Hero({ t, lang }) {
         <div className="hero-photo">
           <div className="arch framed">
             <img
-              src="assets/photos/churros-cajeta.jpeg"
-              alt={lang === "es" ? "Churros de cajeta de Copacabana Bakery" : "Copacabana Bakery cajeta churros"}
+              src="assets/photos/hero-banner.jpeg"
+              alt={lang === "es" ? "Pan dulce y pasteles de Copacabana Bakery" : "Copacabana Bakery sweet bread and pastries"}
               style={IMG}
             />
           </div>
@@ -228,7 +228,8 @@ function Catalog({ t, lang }) {
   );
 }
 
-function Reviews({ t }) {
+function Reviews({ t, lang }) {
+  const reviews = window.REVIEWS || [];
   return (
     <section className="section section-reviews" id="resenas">
       <div className="wrap">
@@ -236,12 +237,25 @@ function Reviews({ t }) {
           <span className="eyebrow">{t.resenas_eyebrow}</span>
           <h2 className="section-title">{t.resenas_title}</h2>
         </Reveal>
-        <Reveal>
-          {/* Pegar aquí el código de embed de Elfsight o Trustindex */}
-          <div id="google-reviews-widget"></div>
-        </Reveal>
+        {reviews.length > 0 && (
+          <Reveal>
+            <div className="reviews-grid">
+              {reviews.map((r, i) => (
+                <div key={i} className="review-card">
+                  <div className="review-author">
+                    <div className="review-avatar">{r.initial}</div>
+                    <span className="review-name">{r.name}</span>
+                    <div className="review-g">G</div>
+                  </div>
+                  <div className="review-stars">{"★".repeat(r.stars)}</div>
+                  <p className="review-text">{lang === "en" ? r.en : r.es}</p>
+                </div>
+              ))}
+            </div>
+          </Reveal>
+        )}
         <div className="reviews-cta">
-          <a className="btn btn-primary" href="https://g.co/kgs/PLACEHOLDER" target="_blank" rel="noopener">
+          <a className="btn btn-primary" href="https://www.google.com/maps/place/Copacabana+Bakery/@39.1539023,-77.2007778,17z/data=!4m8!3m7!1s0x89b62cd46822ea27:0x6e48f724bfe1a937!8m2!3d39.1539023!4d-77.1982029!9m1!1b1!16s%2Fg%2F11b7hm633l" target="_blank" rel="noopener">
             {t.resenas_cta}
           </a>
         </div>
