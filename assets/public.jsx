@@ -173,9 +173,15 @@ function CustomCakes({ t, lang }) {
 }
 
 const CATALOG_PHOTOS = [
-  "assets/photos/pastelito-leche.jpeg",
-  "assets/photos/pastelito-pina.jpeg",
-  "assets/photos/maria-luisa.jpeg",
+  "assets/photos/pastel-catalogo-1.jpeg",
+  "assets/photos/pastel-catalogo-2.jpeg",
+  "assets/photos/pastel-catalogo-3.jpeg",
+  "assets/photos/pastel-catalogo-4.jpeg",
+  "assets/photos/pastel-catalogo-5.jpeg",
+  "assets/photos/pastel-catalogo-6.jpeg",
+  "assets/photos/pastel-catalogo-7.jpeg",
+  "assets/photos/pastel-catalogo-8.jpeg",
+  "assets/photos/pastel-catalogo-9.jpeg",
 ];
 
 function Catalog({ t, lang }) {
